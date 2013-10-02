@@ -3,7 +3,8 @@ log/.zsh_history
 projects.zsh
 custom/*
 !custom/example
+!custom/aliases_safe.zsh
 !custom/example.zsh
+!custom/flowcontrol.zsh
 *.swp
-!custom/example.zshcache
 cache/
